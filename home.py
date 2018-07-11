@@ -4,7 +4,6 @@ import os
 import os.path 
 import math
 import pyperclip
-import transpositionCipher
 import time, sys
 import random
 import base64
